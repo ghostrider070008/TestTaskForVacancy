@@ -9,5 +9,4 @@ class ArticleClass
     function AddTitle($title, $text){
         
     }
-
 }

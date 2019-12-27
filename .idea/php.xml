@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="J:/Дистрибутивы/Веб-разработка/bootstrap-4.0.0-dist" />
+      <path value="J:/local/phpStorm" />
+      <path value="$PROJECT_DIR$/src/static/js" />
+    </include_path>
+  </component>
+</project>
